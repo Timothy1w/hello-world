@@ -1,2 +1,3 @@
 # hello-world
-random programing
+random programing. I just started programing and I'm not very good...
+But I'm still learning!
